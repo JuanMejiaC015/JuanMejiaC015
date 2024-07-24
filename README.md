@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  Creating bugs for more than 7 months<br>📚 I am currently learning frontend development, mainly react and vue.<br>🎯 Goals: ...<br>🎲 Fun fact: nothing better than deploying on a Friday afternoon 😜.</p>
+<p align="left">✨  Creating bugs for more than 7 months<br>📚 I am currently learning frontend development, mainly react and vue.<br>🎯 Goals: Consolidate myself as a good fullstack developer, as well as a mobile developer, why not?<br>🎲 Fun fact: nothing better than deploying on a Friday afternoon 😜.</p>
 
 ###
 
