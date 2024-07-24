@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mongodb,selenium,fastapi,react,vue,docker" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,mongodb,selenium,fastapi,postman,react,vue,docker" alt="Skills" />
   </a>
 </p>
 
