@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">my name is Juan Mejia and I am a junior developer with aspirations to reach fullstack., from colombia to the world</p>
+<p align="left">My name is Juan Mejia and I am a junior developer with aspirations to reach fullstack., from colombia to the world</p>
 
 ###
 
